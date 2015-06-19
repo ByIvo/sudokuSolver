@@ -1,4 +1,2 @@
-/public/vendor/*/*.*
+/public/vendor/*
 **/*sublime-workspace*
-!bower.json
-!.bowerrc
