@@ -1,0 +1,26 @@
+{
+  "name": "sudokuSolver",
+  "version": "0.0.0",
+  "homepage": "sudokuSolver.surge.sh",
+  "description": "Javascript Sudoku Solver",
+  "main": "index.html",
+  "keywords": [
+    "sudoku",
+    "solver",
+    "javascript",
+    "angular",
+    "bower",
+    "underscore"
+  ],
+  "authors": [
+    "@ByIvo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
